@@ -18,6 +18,7 @@ struct ButtonView: View {
         } label: {
             Image(systemName: forward ? "signpost.right.fill" : "signpost.left.fill")
                 .font(.largeTitle)
+                .foregroundColor(.white)
         }
     }
     

@@ -16,7 +16,7 @@ let jupiter = Planet(position: 5, name: "Jupiter")
 let saturne = Planet(position: 6, name: "Saturne")
 let uranus = Planet(position: 7, name: "Uranus")
 let neptune = Planet(position: 8, name: "Neptune")
-let pluton = Planet(position: 9, name: "Pluton (Est-ce une planéte?")
+let pluton = Planet(position: 9, name: "Pluton")
  
 var allPlanets: [Planet] {
 return [mercure, venus, terre, mars, jupiter, saturne, uranus, neptune, pluton]

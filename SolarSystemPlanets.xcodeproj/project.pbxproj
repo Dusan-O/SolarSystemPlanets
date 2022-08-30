@@ -14,6 +14,7 @@
 		2F19A86A28BEA862003F4144 /* Planets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F19A86928BEA862003F4144 /* Planets.swift */; };
 		2F19A86C28BEA920003F4144 /* Datas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F19A86B28BEA920003F4144 /* Datas.swift */; };
 		2F19A86E28BEAA2D003F4144 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F19A86D28BEAA2D003F4144 /* ButtonView.swift */; };
+		2F19A87028BEACFD003F4144 /* PlanetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F19A86F28BEACFD003F4144 /* PlanetView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		2F19A86928BEA862003F4144 /* Planets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Planets.swift; sourceTree = "<group>"; };
 		2F19A86B28BEA920003F4144 /* Datas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Datas.swift; sourceTree = "<group>"; };
 		2F19A86D28BEAA2D003F4144 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		2F19A86F28BEACFD003F4144 /* PlanetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				2F19A86928BEA862003F4144 /* Planets.swift */,
 				2F19A86B28BEA920003F4144 /* Datas.swift */,
 				2F19A86D28BEAA2D003F4144 /* ButtonView.swift */,
+				2F19A86F28BEACFD003F4144 /* PlanetView.swift */,
 			);
 			path = SolarSystemPlanets;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				2F19A85E28BEA7B1003F4144 /* ContentView.swift in Sources */,
 				2F19A85C28BEA7B1003F4144 /* SolarSystemPlanetsApp.swift in Sources */,
+				2F19A87028BEACFD003F4144 /* PlanetView.swift in Sources */,
 				2F19A86E28BEAA2D003F4144 /* ButtonView.swift in Sources */,
 				2F19A86A28BEA862003F4144 /* Planets.swift in Sources */,
 				2F19A86C28BEA920003F4144 /* Datas.swift in Sources */,
