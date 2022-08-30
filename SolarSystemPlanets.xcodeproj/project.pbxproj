@@ -13,6 +13,7 @@
 		2F19A86328BEA7B3003F4144 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F19A86228BEA7B3003F4144 /* Preview Assets.xcassets */; };
 		2F19A86A28BEA862003F4144 /* Planets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F19A86928BEA862003F4144 /* Planets.swift */; };
 		2F19A86C28BEA920003F4144 /* Datas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F19A86B28BEA920003F4144 /* Datas.swift */; };
+		2F19A86E28BEAA2D003F4144 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F19A86D28BEAA2D003F4144 /* ButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		2F19A86228BEA7B3003F4144 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2F19A86928BEA862003F4144 /* Planets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Planets.swift; sourceTree = "<group>"; };
 		2F19A86B28BEA920003F4144 /* Datas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Datas.swift; sourceTree = "<group>"; };
+		2F19A86D28BEAA2D003F4144 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				2F19A86128BEA7B3003F4144 /* Preview Content */,
 				2F19A86928BEA862003F4144 /* Planets.swift */,
 				2F19A86B28BEA920003F4144 /* Datas.swift */,
+				2F19A86D28BEAA2D003F4144 /* ButtonView.swift */,
 			);
 			path = SolarSystemPlanets;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			files = (
 				2F19A85E28BEA7B1003F4144 /* ContentView.swift in Sources */,
 				2F19A85C28BEA7B1003F4144 /* SolarSystemPlanetsApp.swift in Sources */,
+				2F19A86E28BEAA2D003F4144 /* ButtonView.swift in Sources */,
 				2F19A86A28BEA862003F4144 /* Planets.swift in Sources */,
 				2F19A86C28BEA920003F4144 /* Datas.swift in Sources */,
 			);

@@ -8,9 +8,17 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    var planets = Datas().allPlanets
+    var current = 0
+    
+    
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        ZStack(alignment: .top) {
+            HStack {
+                
+            }
+        }
     }
 }
 
